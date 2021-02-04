@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main {
+  width: auto;
+  height: 800px;
+}
+
+.spring {
+  width: auto;
+  height: 200px;
+  background-image: url(img/box1.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.summer {
+  width: auto;
+  height: 200px;
+  background-image: url(img/box2.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.fall {
+  width: auto;
+  height: 200px;
+  background-image: url(img/box3.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.winter {
+  width: auto;
+  height: 200px;
+  background-image: url(img/box4.jpg);
+  background-position: center;
+  background-size: cover;
+}
